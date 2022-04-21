@@ -1,1 +1,1 @@
-initial commit
+initial commit, 8kyu name shuffler on codewars
